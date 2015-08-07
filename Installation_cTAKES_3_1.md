@@ -1,0 +1,1 @@
+See https://cwiki.apache.org/confluence/display/CTAKES/YTEX+3.2
