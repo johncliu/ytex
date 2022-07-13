@@ -14,7 +14,7 @@
 		</repository>
 	</repositories>
 	<properties>
-		<cxf.version>2.5.2</cxf.version>
+		<cxf.version>2.5.10</cxf.version>
 	</properties>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
